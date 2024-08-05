@@ -7,6 +7,7 @@ public class example{
         abc.add(30);
         abc.add(40);
         abc.add(50);
+        abc.add(60);
         System.out.println(abc);
     }
 }
